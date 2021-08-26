@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../stopwatch-timer-functional/.idea/stopwatch-timer-functional.iml" filepath="$PROJECT_DIR$/../stopwatch-timer-functional/.idea/stopwatch-timer-functional.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/traffic-lights.iml" filepath="$PROJECT_DIR$/.idea/traffic-lights.iml" />
     </modules>
   </component>
